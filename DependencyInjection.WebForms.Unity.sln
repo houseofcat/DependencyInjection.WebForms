@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection.WebForms.Unity", "src\DependencyInjection.WebForms.Unity.csproj", "{9DEC89F2-547F-4F61-B337-6DF8FC54DF38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{AC16E638-B376-4434-8C7B-85B2E345EC2A}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		MS_LICENSE = MS_LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DEC89F2-547F-4F61-B337-6DF8FC54DF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEC89F2-547F-4F61-B337-6DF8FC54DF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEC89F2-547F-4F61-B337-6DF8FC54DF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEC89F2-547F-4F61-B337-6DF8FC54DF38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B961EB65-0250-4324-9EB0-247249DB1755}
+	EndGlobalSection
+EndGlobal

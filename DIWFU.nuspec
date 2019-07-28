@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>DependencyInjection.WebForms.Unity</id>
+        <version>1.0.0.0</version>
+        <authors>HouseofCat.io</authors>
+        <owners>HouseofCat.io</owners>
+        <licenseUrl>https://github.com/houseofcat/DependencyInjection.WebForms.Unity/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/houseofcat/DependencyInjection.WebForms.Unity</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Based on MS code for adding Unity based DI for Asp.Net WebForms.</description>
+        <releaseNotes>Initial Commit</releaseNotes>
+        <copyright>Copyright © 2018-2019</copyright>
+        <tags>HouseofCat Unity WebForms Dependency Injection Asp.Net AspNet</tags>
+        <dependencies>
+          <dependency id="System.Runtime.CompilerServices.Unsafe" version="4.5.2" />
+          <dependency id="System.Threading.Tasks.Extensions" version="4.5.3" />
+		  <dependency id="Unity.Abstractions" version="5.11.1" />
+          <dependency id="Unity.Container" version="5.11.1" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="src\bin\Release\HouseofCat.DependencyInjection.WebForms.Unity.dll" target="lib\net472" /> 
+		<file src="src\bin\Release\HouseofCat.DependencyInjection.WebForms.Unity.dll.config" target="lib\net472" />
+		<file src="src\bin\Release\HouseofCat.DependencyInjection.WebForms.Unity.pdb" target="lib\net472" />
+    </files>
+</package>
