@@ -14,7 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{AC16E638-B
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EA2AF719-24CF-4E89-A39D-CF49E9287D97}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A98CC3D9-6881-40AC-905C-A57032B2C464}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,7 +31,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{9DEC89F2-547F-4F61-B337-6DF8FC54DF38} = {EA2AF719-24CF-4E89-A39D-CF49E9287D97}
+		{9DEC89F2-547F-4F61-B337-6DF8FC54DF38} = {A98CC3D9-6881-40AC-905C-A57032B2C464}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B961EB65-0250-4324-9EB0-247249DB1755}
