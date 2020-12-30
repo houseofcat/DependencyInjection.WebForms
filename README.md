@@ -9,7 +9,7 @@
   <httpRuntime targetFramework="4.8"/>
 </system.web>
 ```
-2. Install Microsoft.AspNet.WebFormsDependencyInjection.Unity nupkg in your project.
+2. Install HouseofCat.DependencyInjection.WebForms.Unity nupkg in your project.
 3. Open Global.asax.cs and register the types in UnityContainer.
 ```csharp
 protected void Application_Start(object sender, EventArgs e)
